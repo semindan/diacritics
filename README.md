@@ -5,7 +5,7 @@ pytorch
 unidecode
 ## Environment  
 ### Create
-`conda env create --name semind_hw1 --file=environments.yml`
+`conda env create --name semind_hw1 --file=environment.yml`
 ### Activate
 `conda activate semind_hw1`
 ### Deactivate
